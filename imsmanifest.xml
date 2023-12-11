@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<manifest identifier="e6476eyti9gyC" xmlns="http://www.imsglobal.org/xsd/imscp_v1p1" xmlns:imsss="http://www.imsglobal.org/xsd/imsss" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_v1p3" xmlns:adlseq="http://www.adlnet.org/xsd/adlseq_v1p3" xmlns:adlnav="http://www.adlnet.org/xsd/adlnav_v1p3" xmlns:lom="http://ltsc.ieee.org/xsd/LOM" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imscp_v1p1 imscp_v1p1.xsd http://www.imsglobal.org/xsd/imsss imsss_v1p0.xsd http://www.adlnet.org/xsd/adlcp_v1p3 adlcp_v1p3.xsd http://www.adlnet.org/xsd/adlseq_v1p3 adlseq_v1p3.xsd http://www.adlnet.org/xsd/adlnav_v1p3 adlnav_v1p3.xsd http://ltsc.ieee.org/xsd/LOM lom.xsd">
+<manifest identifier="Xd0etqEcuV1xH" xmlns="http://www.imsglobal.org/xsd/imscp_v1p1" xmlns:imsss="http://www.imsglobal.org/xsd/imsss" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_v1p3" xmlns:adlseq="http://www.adlnet.org/xsd/adlseq_v1p3" xmlns:adlnav="http://www.adlnet.org/xsd/adlnav_v1p3" xmlns:lom="http://ltsc.ieee.org/xsd/LOM" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imscp_v1p1 imscp_v1p1.xsd http://www.imsglobal.org/xsd/imsss imsss_v1p0.xsd http://www.adlnet.org/xsd/adlcp_v1p3 adlcp_v1p3.xsd http://www.adlnet.org/xsd/adlseq_v1p3 adlseq_v1p3.xsd http://www.adlnet.org/xsd/adlnav_v1p3 adlnav_v1p3.xsd http://ltsc.ieee.org/xsd/LOM lom.xsd">
 <metadata>
 <schema>ADL SCORM</schema>
 <schemaversion>CAM 1.3</schemaversion>
@@ -43,7 +43,6 @@
 <file href="res/data/quiz1/audios/snd-079dd0d28489537ae2ce54ef87716ce0b0f2843b.mp3"/>
 <file href="res/data/quiz1/audios/snd-22930d0e82c8e72440bae272717a021df1ed604f.mp3"/>
 <file href="res/data/quiz1/fonts/fnt0.woff"/>
-<file href="res/data/quiz1/fonts/fnt1.woff"/>
 <file href="res/data/quiz1/images/img-0405b4069dec4febe5f67e4d039fa382316ebe32.gif"/>
 <file href="res/data/quiz1/images/img-4799862f72b4049b91c3c3b902d9954709302ca0.jpg"/>
 <file href="res/data/quiz1/images/img-c8a243173e57f3c3d0ba23bcb03cf97e6617a13f.jpg"/>
@@ -57,7 +56,7 @@
 <file href="res/data/quiz2/fonts/fnt0.woff"/>
 <file href="res/data/quiz2/fonts/fnt1.woff"/>
 <file href="res/data/quiz2/fonts/fnt2.woff"/>
-<file href="res/data/quiz2/images/8b84-c6b1-24b3-446f.png"/>
+<file href="res/data/quiz2/images/43c1-096c-2862-292d.png"/>
 <file href="res/data/quiz2/images/img-6d8a413446f8475101007f4bc038b18c0295510b.png"/>
 <file href="res/data/quiz2/images/img-7b4a937816c35bb471a79690b6e314c5c81b8fa6.gif"/>
 <file href="res/data/quiz2/images/img-8a94952384c7f58ad32239f003d071ca324a5556.jpg"/>
