@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="e6476eyti9gyC" xmlns="http://www.imsglobal.org/xsd/imscp_v1p1" xmlns:imsss="http://www.imsglobal.org/xsd/imsss" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_v1p3" xmlns:adlseq="http://www.adlnet.org/xsd/adlseq_v1p3" xmlns:adlnav="http://www.adlnet.org/xsd/adlnav_v1p3" xmlns:lom="http://ltsc.ieee.org/xsd/LOM" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imscp_v1p1 imscp_v1p1.xsd http://www.imsglobal.org/xsd/imsss imsss_v1p0.xsd http://www.adlnet.org/xsd/adlcp_v1p3 adlcp_v1p3.xsd http://www.adlnet.org/xsd/adlseq_v1p3 adlseq_v1p3.xsd http://www.adlnet.org/xsd/adlnav_v1p3 adlnav_v1p3.xsd http://ltsc.ieee.org/xsd/LOM lom.xsd">
+<metadata>
+<schema>ADL SCORM</schema>
+<schemaversion>CAM 1.3</schemaversion>
+<lom:lom>
+<lom:general>
+<lom:title>
+<lom:string>hinh thoi elearning</lom:string>
+</lom:title>
+</lom:general>
+<lom:educational>
+<lom:typicalLearningTime>
+<lom:duration>PT1H0M0S</lom:duration>
+</lom:typicalLearningTime>
+</lom:educational>
+<lom:metaMetadata>
+<lom:metadataSchema>LOMv1.0</lom:metadataSchema>
+<lom:metadataSchema>SCORM_CAM_v1.3</lom:metadataSchema>
+</lom:metaMetadata>
+</lom:lom>
+</metadata>
+<organizations default="hinh_thoi_elearning_organization">
+<organization identifier="hinh_thoi_elearning_organization">
+<title>hinh thoi elearning</title>
+<item identifier="A7B24070-C27D-4804-B81C-5C25C535C279" identifierref="resource">
+<title>hinh thoi elearning</title>
+<imsss:sequencing>
+<imsss:deliveryControls completionSetByContent="true" objectiveSetByContent="true"/>
+</imsss:sequencing>
+</item>
+<imsss:sequencing>
+<imsss:controlMode flow="true"/>
+</imsss:sequencing>
+</organization>
+</organizations>
+<resources>
+<resource identifier="resource" type="webcontent" adlcp:scormType="sco" href="res/index.html">
+<file href="res/index.html"/>
+<file href="res/lms.js"/>
+<file href="res/data/quiz1.js"/>
+<file href="res/data/quiz1/audios/snd-0672384dca40791201673f48e6575f856dfca200.mp3"/>
+<file href="res/data/quiz1/audios/snd-079dd0d28489537ae2ce54ef87716ce0b0f2843b.mp3"/>
+<file href="res/data/quiz1/audios/snd-22930d0e82c8e72440bae272717a021df1ed604f.mp3"/>
+<file href="res/data/quiz1/fonts/fnt0.woff"/>
+<file href="res/data/quiz1/fonts/fnt1.woff"/>
+<file href="res/data/quiz1/images/img-0405b4069dec4febe5f67e4d039fa382316ebe32.gif"/>
+<file href="res/data/quiz1/images/img-4799862f72b4049b91c3c3b902d9954709302ca0.jpg"/>
+<file href="res/data/quiz1/images/img-c8a243173e57f3c3d0ba23bcb03cf97e6617a13f.jpg"/>
+<file href="res/data/quiz1/images/img-dde60a2d4e204a8df62bf6f5c3b5bfd68b898690.gif"/>
+<file href="res/data/quiz1/images/img-eca726ef031540a348832c0de00c1e560a000356.gif"/>
+<file href="res/data/quiz1/images/quiz_bg_0.png"/>
+<file href="res/data/quiz2.js"/>
+<file href="res/data/quiz2/audios/snd-25d02c81db233046c65c1161a3b08b3b7e9150b5.mp3"/>
+<file href="res/data/quiz2/audios/snd-3fcc79dc0e79ef850aee8d05deaeadad012f8755.mp3"/>
+<file href="res/data/quiz2/audios/snd-d6707f969354d2bdfa981bca460cded2038fc0c6.mp3"/>
+<file href="res/data/quiz2/fonts/fnt0.woff"/>
+<file href="res/data/quiz2/fonts/fnt1.woff"/>
+<file href="res/data/quiz2/fonts/fnt2.woff"/>
+<file href="res/data/quiz2/images/8b84-c6b1-24b3-446f.png"/>
+<file href="res/data/quiz2/images/img-6d8a413446f8475101007f4bc038b18c0295510b.png"/>
+<file href="res/data/quiz2/images/img-7b4a937816c35bb471a79690b6e314c5c81b8fa6.gif"/>
+<file href="res/data/quiz2/images/img-8a94952384c7f58ad32239f003d071ca324a5556.jpg"/>
+<file href="res/data/quiz2/images/img-acfec3eaa3040d8425aa1ace3c1b284fd85b8eb7.gif"/>
+<file href="res/data/quiz2/images/img-e75fa9adaddf2200db6f93250d075f05fce15188.gif"/>
+<file href="res/data/quiz2/images/img-fab2bcbbd6b6d59f0c3a03f59571ddc69410eed0.jpg"/>
+<file href="res/data/quiz2/images/quiz_bg_0.png"/>
+<file href="res/data/quiz3.js"/>
+<file href="res/data/quiz3/audios/snd-0672384dca40791201673f48e6575f856dfca200.mp3"/>
+<file href="res/data/quiz3/audios/snd-079dd0d28489537ae2ce54ef87716ce0b0f2843b.mp3"/>
+<file href="res/data/quiz3/audios/snd-22930d0e82c8e72440bae272717a021df1ed604f.mp3"/>
+<file href="res/data/quiz3/fonts/fnt0.woff"/>
+<file href="res/data/quiz3/fonts/fnt1.woff"/>
+<file href="res/data/quiz3/fonts/fnt2.woff"/>
+<file href="res/data/quiz3/fonts/fnt3.woff"/>
+<file href="res/data/quiz3/images/img-13d38877dc992564e0bbf7f06b8dc375e232c3f9.gif"/>
+<file href="res/data/quiz3/images/img-1db7b9262156d9f0e2741d73ac449326a66b4766.jpg"/>
+<file href="res/data/quiz3/images/img-40ee0248c02ab0388b9b2f0bfe8eeaaa82e58dc2.jpg"/>
+<file href="res/data/quiz3/images/img-4f07dc94f0df58ab3259268d158f7b844b3d71b0.gif"/>
+<file href="res/data/quiz3/images/img-a34e0db50fe10c47a387fdc42a37ab4b7615b7ed.gif"/>
+<file href="res/data/quiz3/images/quiz_bg_0.png"/>
+<file href="res/data/quizplayer.js"/>
+<file href="res/index.html"/>
+<file href="res/data/player.js"/>
+<file href="res/data/eraser.cur"/>
+<file href="res/data/highlighter.cur"/>
+<file href="res/data/marker.cur"/>
+<file href="res/data/lock.cur"/>
+<file href="res/data/browsersupport.js"/>
+<file href="res/data/apple-touch-icon.png"/>
+<file href="res/data/favicon.ico"/>
+<file href="res/data/fnt0.woff"/>
+<file href="res/data/fnt1.woff"/>
+<file href="res/data/fnt2.woff"/>
+<file href="res/data/fnt3.woff"/>
+<file href="res/data/fnt4.woff"/>
+<file href="res/data/fnt5.woff"/>
+<file href="res/data/fnt6.woff"/>
+<file href="res/data/fnt7.woff"/>
+<file href="res/data/html5-unsupported.html"/>
+<file href="res/data/html5.png"/>
+<file href="res/data/img0.png"/>
+<file href="res/data/img1.png"/>
+<file href="res/data/img2.png"/>
+<file href="res/data/img3.png"/>
+<file href="res/data/img4.png"/>
+<file href="res/data/img5.png"/>
+<file href="res/data/quiz_bg_0.png"/>
+</resource>
+</resources>
+</manifest>
